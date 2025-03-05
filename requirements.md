@@ -1,4 +1,3 @@
-- - - -time-capsule-project-requirements - - - - 
 
 --SECTIONS--
 1. Header
